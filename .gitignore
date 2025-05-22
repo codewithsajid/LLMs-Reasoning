@@ -15,3 +15,7 @@ wandb/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+
+/*.py
+/*.txt
+!/requirements.txt
