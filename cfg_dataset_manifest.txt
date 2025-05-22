@@ -1,7 +1,0 @@
-cfg-dataset/derivation_engine.py	9191 bytes
-cfg-dataset/grammar_catalog.py	7915 bytes
-cfg-dataset/cfg_count_tokens.py	656 bytes
-cfg-dataset/cfg_analyze.py	2224 bytes
-cfg-dataset/grammar_helper.py	5053 bytes
-cfg-dataset/grammar_catalog_v2.py	3832 bytes
-cfg-dataset/build_dataset_parallel.py	7867 bytes
