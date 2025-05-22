@@ -1,0 +1,17 @@
+# large data / checkpoints
+dataset*/
+out/
+wandb/
+*.jsonl
+*.jsonl.gz
+*.pt
+*.ckpt
+*.bin
+*.gz
+*.npz
+*.log
+
+# python cruft
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
